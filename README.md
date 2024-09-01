@@ -1,7 +1,7 @@
 # VM_Translator
 VM_Translator for Project7 and 8 of Nand2Tetris.
 
-## Successfully pass all testes provided from the official Nand2Tetris IDE.
+## Successfully passed all testes provided from the official Nand2Tetris IDE.
 
 There are much better Cpp based VM_translater that has good error handeling, organized code and overall better optimazation.
 Hope this helps as a somewhat different surplus sorce to anybody out there.
