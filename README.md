@@ -19,3 +19,7 @@ I replaced JGT into JNE. I was confused with true and false which are -1 and 0 r
 
 ### 4.StaticsTest
 I was having problems that the fstream operations were not picking up the last line. In the function hasMoreLines in Parser.cpp I used the ofile object itself instead of ifile.eof().
+
+
+###Note
+I wanted to use all the translated assembly language into text file. I initally failled because I needed formatting however you can use the formatting library included in cpp to sort this out. It obviously is not nessasary.
